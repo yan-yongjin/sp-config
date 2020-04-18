@@ -20,5 +20,5 @@ management:
   endpoints:
     web:
       exposure:
-        inclue: refresh
+        include: refresh
   
